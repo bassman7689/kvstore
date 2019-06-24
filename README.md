@@ -1,2 +1,2 @@
 # kvstore
-Simple KV store to help me understand networking and protocol creation.
+Simple key value store written in c to help me understand async networking (with epoll) and protocol creation.
